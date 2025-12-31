@@ -52,8 +52,8 @@ graph TD
 - [x] **M1: Proje Kurulumu** - Android Studio ve kütüphane bağımlılıklarının yapılandırılması.
 - [x] **M2: API Entegrasyonu** - Retrofit ve veri modellerinin (POJO) oluşturulması.
 - [x] **M3: İş Mantığı** - ViewModel ve Repository katmanlarının tasarımı.
-- [/] **M4: Görsel Tasarım** - Compose ile modern ve dinamik listelerin oluşturulması.
-- [ ] **M5: Detay Sayfası** - Seçili kripto paranın detaylarını gösterme (Planlanan).
+- [x] **M4: Görsel Tasarım** - Compose ile modern ve dinamik listelerin oluşturulması.
+- [x] **M5: Detay Sayfası** - Seçili kripto paranın detaylarını gösterme.
 
 ---
 
@@ -78,6 +78,24 @@ Hataları bildirmek veya yeni özellikler önermek için lütfen [CONTRIBUTING.m
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
+---
+
+## 👨‍💻 Hazırlayan
+
+**Bahattin Yunus Çetin**  
+*IT Architect*
+
+Akademik eğitimine Trabzon Üniversitesi Of Teknoloji Fakültesi'nde devam eden Bahattin Yunus Çetin, yazılım mimarisi ve sistem tasarımı alanlarında yetkinlik sahibidir. Bu proje, modern yazılım geliştirme pratiklerini ve mimari disiplini bir araya getirme vizyonuyla kendisi tarafından hazırlanmıştır.
+
+<div align="left">
+  <a href="https://github.com/bahattinyunus">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bahattinyunus/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
